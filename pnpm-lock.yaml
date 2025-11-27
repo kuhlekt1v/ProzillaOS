@@ -676,6 +676,9 @@ importers:
       '@prozilla-os/shared':
         specifier: workspace:*
         version: link:../shared
+      '@prozilla-os/skins':
+        specifier: workspace:*
+        version: link:../skins
       '@prozilla-os/terminal':
         specifier: workspace:*
         version: link:../apps/terminal

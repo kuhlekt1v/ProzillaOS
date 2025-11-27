@@ -31,6 +31,7 @@
 		"@prozilla-os/settings": "workspace:*",
 		"@prozilla-os/terminal": "workspace:*",
 		"@prozilla-os/shared": "workspace:*",
+		"@prozilla-os/skins": "workspace:*",
 		"@prozilla-os/text-editor": "workspace:*",
 		"@kuhlekt1v-os/gh-repo-sweeper": "workspace:*"
 	},
