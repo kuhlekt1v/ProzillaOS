@@ -673,6 +673,9 @@ importers:
       '@prozilla-os/settings':
         specifier: workspace:*
         version: link:../apps/settings
+      '@prozilla-os/shared':
+        specifier: workspace:*
+        version: link:../shared
       '@prozilla-os/terminal':
         specifier: workspace:*
         version: link:../apps/terminal
@@ -780,9 +783,6 @@ importers:
       '@prozilla-os/minesweeper':
         specifier: ^1.0.7
         version: 1.0.7(react@18.3.1)
-      '@prozilla-os/shared':
-        specifier: workspace:*
-        version: link:../packages/shared
       '@prozilla-os/skins':
         specifier: workspace:*
         version: link:../packages/skins
